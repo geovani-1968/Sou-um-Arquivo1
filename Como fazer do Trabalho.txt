@@ -1,0 +1,12 @@
+Se eu tivesse em outro local eu teria que ter instalado o GIT; 
+Ter a copia do endereço do repositório;
+Clica "OPEN GIT BASH HERE", pra abrir;
+Digita: git clone e "cola" o endereço do repositório;
+Dá um enter;
+*A pasta do arquivo "GIT" é baixada, abre-se o arquivo que deseja,
+faz as modificações que precisa, salva;
+Sobe pro repositório;
+Clica "OPEN GIT BASH HERE", pra abrir;
+Digita: git status (enter) =>=> git add . (enter) =>=> 
+=>=> git commit -a -m "Mensagem do Commit" (enter) =>=>
+=>=> git push origin main (enter)
